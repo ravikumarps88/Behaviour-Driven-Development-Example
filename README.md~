@@ -1,5 +1,5 @@
-Sample BDD (Behaviour Driven Development) using Behat
-=====================================================
+sample-soapclient-ravikumar
+=========
 This is a simple SOAP API project to get the weather of a country.
 
 The main purpose of this project is to get start with BDD (Behaviour Driven Development) using Behat.
