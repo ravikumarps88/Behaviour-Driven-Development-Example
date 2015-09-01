@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /home/dev-16/Projects/sample-soapclient-ravikumar/app/config/routing_dev.yml

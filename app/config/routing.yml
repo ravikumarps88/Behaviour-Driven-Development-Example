@@ -1,0 +1,7 @@
+skyrocket_apipage:
+    path:     /index/
+    defaults: { _controller: AppBundle:Demo:index }
+    
+skyrocket_weather:
+    path:     /weather
+    defaults: { _controller: AppBundle:Weather:index }
